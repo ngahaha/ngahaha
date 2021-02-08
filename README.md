@@ -3,7 +3,7 @@
 - you're doing good? 
 - thats nois mate
 - same lol 
-print('u just had a conversation with a future chatbot lol')
+- print('u just had a conversation with a future chatbot lol')
 
 - 🔭 I’m currently working on a nois project i started with my friend! Hopefully it will be ready by mid summer. 
 - 🌱 I'm quite occupied with stuff rn but if u want to come see my stuff, i'll gladly show u around yo
